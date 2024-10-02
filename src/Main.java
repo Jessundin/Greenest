@@ -37,7 +37,7 @@ public class Main {
                     }
                 }
                 if (!found) {
-                    System.out.println("Plant " + input + " not found, try again... \n");
+                    System.out.println("Plant '" + input + "' not found, try again... \n");
                 }
             }
             scanner.close();
